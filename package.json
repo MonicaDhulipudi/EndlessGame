@@ -22,7 +22,7 @@
     "react-responsive-carousel": "^3.1.49",
     "react-router": "^4.2.0",
     "react-router-dom": "^4.2.2",
-    "react-scripts": "1.0.13",
+    "react-scripts": "5.0.1",
     "reactstrap": "^5.0.0-beta",
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0"
